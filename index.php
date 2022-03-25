@@ -6,5 +6,3 @@ use App\classes\Home;
 
 $home = new Home();
 $home->index();
-
-// C:20  done
